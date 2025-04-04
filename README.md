@@ -8,8 +8,7 @@
 <body>
     <div class="container text-center mt-5">
         <h1 class="mb-4">Bienvenido a mi Proyecto final de la materia de sistemas telematicos</h1>
-        <p class="lead">
-            </p>Este proyecto busca ofrecer soluciones innovadoras en el mundo de los servicios telemáticos, usando las tecnologías más avanzadas para mejorar la conectividad y hacer todo más eficiente. A través de plataformas web, proporcionamos herramientas para facilitar la comunicación, gestionar datos y automatizar procesos de forma rápida, segura y accesible.</p>
+        <p class="lead"><p></p>Este proyecto busca ofrecer soluciones innovadoras en el mundo de los servicios telemáticos, usando las tecnologías más avanzadas para mejorar la conectividad y hacer todo más eficiente. A través de plataformas web, proporcionamos herramientas para facilitar la comunicación, gestionar datos y automatizar procesos de forma rápida, segura y accesible.</p>
 
 <p>El objetivo es optimizar cómo interactúan los dispositivos y los usuarios, mejorando la calidad de los servicios con sistemas telemáticos que responden de manera eficiente a las necesidades del día a día.</p>
         <img src="img-1.png" alt="Descripción de la imagen" class="img-fluid mb-4" style="max-width: 50%; height: auto;">
